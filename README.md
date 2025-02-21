@@ -1,1 +1,1 @@
-# to-do-app
+# Raw Template for Webpack Based Projects
